@@ -92,8 +92,8 @@ function Work() {
           work
         </h1>
         <p
-          className="text-xl font-regular text-zinc-500 text-center font- leading-none"
-          style={{ fontFamily: "font-md" }}
+          className="text-xl font-regular font-md text-zinc-500 text-center font- leading-none"
+          // style={{ fontFamily: "font-md" }}
         >
           Web Design, Webflow Development, Creative Development
         </p>
